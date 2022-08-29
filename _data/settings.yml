@@ -1,22 +1,22 @@
 # General Settings
-title: "Creative Agency - Dexfolio - Portfolio & Agency Template"
+title: "Orbit - Modernizing Enterprise Architecture"
 favicon: "/assets/images/logo/favicon.png"
-name: "dexfolio."
-description: "Dexfolio - Creative Website"
+name: "Orbit"
+description: "Our purpose is to inspire, empower and increase the productivity of IT & dev teams around the world."
 
 # Logo
-logo_1: "/assets/images/logo/logo_white_2x.png"
-logo_2: "/assets/images/logo/logo_black_2x.png"
+logo_1: "/assets/images/logo/orbit-logo-white.png"
+logo_2: "/assets/images/logo/orbit-logo.png"
 
 # Contact info
 contact_settings:
-  phone_number: "+1-541-754-5624"
-  email: "hello@dexfolio.net.us"
-  email_2: "fusionlab.co@gmail.com"
+  phone_number: "(+354) 865 4520"
+  email: "hello@orbit.is"
+  email_2: "hello@orbit.is"
 
 # Footer info
 footer_settings:
-  copyright_text: "2022 All Right Reserved by "
+  copyright_text: "Over and out, "
 
 # Google analytics code
 google_analytics:

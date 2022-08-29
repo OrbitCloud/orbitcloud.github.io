@@ -152,4 +152,4 @@ disqus:
 
 google_maps:
   enable: true
-  code: '<iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=%2016122%20Collins%20St&t=&z=9&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>'
+  code: ''
