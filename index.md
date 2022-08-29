@@ -5,7 +5,7 @@ group: "Home"
 
 ############################ Banner ##################################
 banner:
-  title: 'Because <span class="d-md-block">Cloud Journeys</span> Need a Houston<span class="orbit-dot">.</span>'
+  title: 'Every <span class="d-md-block">Cloud Journey</span> Needs its Houston<span class="orbit-dot">.</span>'
   content: "Our purpose is to inspire, empower and increase the productivity of IT & dev teams around the world."
   image: "/assets/images/banner/spaceman.jpg"
   button:
